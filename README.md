@@ -1,6 +1,6 @@
 # JOGO DA FORCA
 
-Irface gráfica para um jogo da forca feito em python.
+Interface gráfica para um jogo da forca feito em python.
 
 <h1 align="center"> 
 	
