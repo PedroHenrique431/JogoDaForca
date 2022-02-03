@@ -1,6 +1,6 @@
 # JOGO DA FORCA
 
-Um jogo da forca simples em modo gráfico.
+Irface gráfica para um jogo da forca feito em python.
 
 <h1 align="center"> 
 	
@@ -29,5 +29,6 @@ Um jogo da forca simples em modo gráfico.
 ## 📝 Licença
 
 Este projeto é livre.
+Agradecimentos especiais à [En3rypt](https://github.com/en3rypt)
 
 Feito por Pedro Henrique - 2022 [Entre em contato!](https://www.linkedin.com/in/pedro-henrique-88a810186/)
