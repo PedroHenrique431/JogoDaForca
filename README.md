@@ -1,9 +1,3 @@
-<p align="center">
-      
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-    
-</p>
-
 # JOGO DA FORCA
 
 Um jogo da forca simples em modo gráfico.
@@ -34,6 +28,6 @@ Um jogo da forca simples em modo gráfico.
 
 ## 📝 Licença
 
-Este projeto está sobe a licença [MIT](./LICENSE).
+Este projeto é livre.
 
 Feito por Pedro Henrique - 2022 [Entre em contato!](https://www.linkedin.com/in/pedro-henrique-88a810186/)
